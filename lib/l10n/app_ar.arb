@@ -1,0 +1,41 @@
+{
+  "login":"تسجيل الدخول",
+  "login_title": "مرحبا بعودتك...",
+  "login_subtitle": "أدخل البريد و كلمة المرور",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+
+  "register": "إنشاء حساب",
+  "register_title": "إنشئ حساب جديد...",
+  "register_subtitle": "أدخل البيانات التالية",
+  "name": "الإسم",
+
+  "new_note": "إنشاء مُذكرة",
+  "update_note": "تعديل مُذكرة",
+  "note_hint":"أدخل العنوان و الوصف",
+  "title": "العنوان",
+  "info": "الوصف",
+  "save": "حفظ",
+
+  "country": "الدولة او المنطقة",
+  "english": "الانجليزية",
+  "arabic": "العربية",
+
+  "categories": "الفئات",
+  "new_arrivals": "منتجات جديدة",
+  "latest_product": "أحدث المنتجات",
+  "view_all": "عرص الكل",
+
+  "settings": "اعدادات",
+  "language": "اللغة",
+  "notification": "الاشعارات",
+  "dark_mood": "مزاج مظلم",
+  "help": "مركز المساعدة",
+  "personal": "تفاصيل شخصية",
+  "my_order": "طلباتى",
+  "favourite": "المفضلة",
+  "shipping": "عنوان الشحن",
+  "card": "بطاقتي",
+  "favorite": "المفضلة"
+
+}

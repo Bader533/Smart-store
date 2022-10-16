@@ -1,0 +1,46 @@
+{
+  "login": "Login",
+  "login_title": "Welcome back...",
+  "login_subtitle": "Enter email & password",
+  "email": "Email",
+  "password": "Password",
+
+  "register": "Register",
+  "register_title": "Create new account...",
+  "register_subtitle": "Enter details below",
+  "name": "Name",
+
+  "new_note": "New Note",
+  "update_note": "Update Note",
+  "note_hint":"Enter title & info",
+  "title": "Title",
+  "info": "Info",
+  "save": "Save",
+
+  "country": "Country or Region",
+  "english": "English",
+  "arabic": "Arabic",
+
+  "categories": "Categories",
+  "new_arrivals": "New Arrivals",
+  "latest_product": "Latest Product",
+  "view_all": "view All",
+
+  "settings": "Settings",
+  "language": "Language",
+  "notification": "Notification",
+  "dark_mood": "Dark Mood",
+  "help": "Help Center",
+  "personal": "Personal Details",
+  "my_order": "My Order",
+  "favourite": "My Favourites",
+  "shipping": "Shipping Address",
+  "card": "My Card",
+  "favorite": "Favorite"
+
+
+
+
+
+
+}
